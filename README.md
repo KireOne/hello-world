@@ -1,5 +1,4 @@
 # hello-world
-a short description
 
 Bit
 A bit, also known as a Shannon, is the basic unit of information in computing and digital communications. A bit can have only one of two
